@@ -6,10 +6,9 @@ body [class*="col-"] {
 }
 
 body [class*="nested"] {
-  height: 190px;
+  height: 192px;
   background-color: #F07F80;
   border: 1px solid white;
-  padding: 5px;
 }
 
 *{
